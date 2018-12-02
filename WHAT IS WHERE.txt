@@ -1,0 +1,23 @@
+##This are the heading from the course "Mastering React" at CodewithMosh.com
+
+ES6 refresher: 
+
+In testing1 , in index.js , we have covered upto "Inheritance" . 
+In testing2 , in index.js , we have successfully created, exported and imported modules. 
+
+
+COMPOINENTS: 
+1.)In testing3 , in index.js , we have 
+2.)Vidly 
+
+
+COMPOSING COMPONENTS: 
+**In here we revisit the counter.jsx which is at the location "H:\react\COMPONENTS"
+** We will build upon this, so we have instead creatd the counter once again completely, this would also help in 
+**practicing **.
+**AND WE CALL IT  counter_v2 "  . This is in the folder :  "\react\COMPONENTS\counter_v2"
+
+counter_v3 = Here , we will restructure the counter and add the "Reset Button ".
+counter_v4 = Here , we will "Lift the state up " and put everything under "App.js".
+
+

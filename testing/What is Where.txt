@@ -1,0 +1,19 @@
+/////////////////////////////////////// WHAT IS WHERE //////////////////////////////////////////: 
+It is to be noted that in this folder , only React Codes have been tested . For a general testing of JavaScript 
+codes , see  H:\javascript
+
+
+
+1.)general_practice : 
+It has only got one "hello world" display and nothing else.
+
+2.)testing1
+//***************** */1.) UNDERSTANDING DIFFERENCE BETWEEN VAR AND  CONST.*********
+//***************** */2.)UNDERSTANDING "THIS" keyword*******************************
+//***************** */3.)USING ARROW FUNCTIONS*******************************
+//***************** */4.)MAP METHOD IN REACT *******************************
+//***************** */5.)SPREAD OPERATOR ******************************************
+//***************** */6.)CLASSES **************************************************
+//***************** */7.)INHERITANCE **********************************************
+
+
